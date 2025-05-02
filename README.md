@@ -1,6 +1,4 @@
-
-
-
+ONE | TECH FOUNDATION - Especialização Back-End
 
 # 💱 Conversor de Moedas em Java
 
@@ -56,6 +54,6 @@ conversor-moeda-java/
 ├── gson-2.8.9.jar
 └── README.md
 
-Desenvolvido por Valter — baseado nos aprendizados dos cursos da Alura.
+Desenvolvido por Valter — ONE | TECH FOUNDATION - Especialização Back-End
 
 
